@@ -1,4 +1,4 @@
-import Image from "next/image";
+
 
 // components/HeroSection.tsx
 const HeroSection = () => {

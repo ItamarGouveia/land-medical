@@ -6,15 +6,15 @@ const Testimonials = () => {
             <div className="max-w-screen-xl mx-auto grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
                 <div className="bg-white p-6 rounded-lg shadow-lg text-center">
                     <p>"A melhor clínica para meu filho. O atendimento é super humanizado!"</p>
-                    <strong>- João e Fernanda, Pais do Miguel</strong>
+                    <strong> João e Fernanda, Pais do Miguel</strong>
                 </div>
                 <div className="bg-white p-6 rounded-lg shadow-lg text-center">
                     <p>"Profissionais incríveis, sempre atentos às nossas preocupações."</p>
-                    <strong>- Mariana e Carlos, Pais da Ana</strong>
+                    <strong> Mariana e Carlos, Pais da Ana</strong>
                 </div>
                 <div className="bg-white p-6 rounded-lg shadow-lg text-center">
                     <p>"Profissionais incríveis, sempre atentos às nossas preocupações."</p>
-                    <strong>- Mariana e Carlos, Pais da Ana</strong>
+                    <strong> Mariana e Carlos, Pais da Ana</strong>
                 </div>
             </div>
 
@@ -22,15 +22,15 @@ const Testimonials = () => {
             <div className="max-w-screen-xl mx-auto grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 mt-3">
                 <div className="bg-white p-6 rounded-lg shadow-lg text-center">
                     <p>"A melhor clínica para meu filho. O atendimento é super humanizado!"</p>
-                    <strong>- João e Fernanda, Pais do Miguel</strong>
+                    <strong> João e Fernanda, Pais do Miguel</strong>
                 </div>
                 <div className="bg-white p-6 rounded-lg shadow-lg text-center">
                     <p>"Profissionais incríveis, sempre atentos às nossas preocupações."</p>
-                    <strong>- Mariana e Carlos, Pais da Ana</strong>
+                    <strong> Mariana e Carlos, Pais da Ana</strong>
                 </div>
                 <div className="bg-white p-6 rounded-lg shadow-lg text-center">
                     <p>"Profissionais incríveis, sempre atentos às nossas preocupações."</p>
-                    <strong>- Mariana e Carlos, Pais da Ana</strong>
+                    <strong> Mariana e Carlos, Pais da Ana</strong>
                 </div>
             </div>
         </section>
