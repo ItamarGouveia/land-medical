@@ -1,8 +1,11 @@
 import AboutSection from "@/components/About";
 import ContactForm from "@/components/Contact";
 import Footer from "@/components/Footer";
-import Header from "@/components/Header";
+
+import Navbar from "@/components/Header2";
 import HeroSection from "@/components/Hero";
+import How from "@/components/How";
+
 import ServicesSection from "@/components/Services";
 import TeamSection from "@/components/Team";
 import Testimonials from "@/components/Testimonials";
@@ -11,13 +14,19 @@ import Testimonials from "@/components/Testimonials";
 export default function Home() {
   return (
     <div>
-      <Header />
+
+
+
+
+      <Navbar />
       <HeroSection />
       <AboutSection />
       <ServicesSection />
       <TeamSection />
+      <How />
       <Testimonials />
-      <ContactForm />
+
+
       <Footer />
     </div>
   );

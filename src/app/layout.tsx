@@ -1,9 +1,9 @@
 import type { Metadata } from "next";
-import { Roboto } from "next/font/google";
+import { Nunito } from "next/font/google";
 import "./globals.css";
 
 
-const roboto = Roboto({
+const nunito = Nunito({
   weight: '400',
   subsets: ['latin'],
 })
@@ -21,7 +21,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body
-        className={`${roboto.className} antialiased`}
+        className={`${nunito.className} antialiased`}
       >
         {children}
       </body>

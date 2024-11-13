@@ -1,0 +1,18 @@
+   <Link href="https://api.whatsapp.com/send?phone=5511960385169&text=Ol%C3%A1%20Time%20Balance!!%20Gostaria%20de%20mais%20Informa%C3%A7%C3%B5es%20Sobre%20Fisioterapia%20Especializada%20para%20Paralisia+Facial!%20"
+                                target="_blank" >
+
+                                <div className="text-white flex flex-row justify-end items-center">
+
+                                    <FaWhatsapp size={45} className="hidden md:block" />
+
+                                    <div className=" ml-2 hidden md:block">
+                                        <div className="text-sm flex justify-end" >
+                                            Entre em contato
+                                        </div>
+                                        <div className="font-bold text-lg">
+                                            (11) 96038-5169
+                                        </div>
+                                    </div>
+
+                                </div>
+                            </Link>
