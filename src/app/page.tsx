@@ -1,5 +1,5 @@
 import AboutSection from "@/components/About";
-import ContactForm from "@/components/Contact";
+
 import Footer from "@/components/Footer";
 
 import Navbar from "@/components/Header2";
